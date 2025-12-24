@@ -111,7 +111,7 @@ Roblox Studio, Unity, AI-game integration
 
 ### Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&include_all_commits=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sancar22-debug&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=888888&sideNums=c9d1d9)
 
