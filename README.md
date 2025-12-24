@@ -8,7 +8,7 @@
 **Full Stack Developer | AI Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=flat-square)](https://sanzhar-ilichbekov-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanzhar-ilichbekov-64340025b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanzhar-ilichbekov-64340025b)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sancarilichbekov@gmail.com)
 
 </div>
@@ -56,6 +56,8 @@ Roblox Studio, Unity, AI-game integration
 
 ---
 
+<div align="center">
+
 ### Selected Work
 
 <table>
@@ -101,23 +103,17 @@ Roblox Studio, Unity, AI-game integration
 </tr>
 </table>
 
+</div>
+
 ---
 
 <div align="center">
 
 ### Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&title_color=0891b2&icon_color=0891b2&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&include_all_commits=true" width="400" alt="GitHub Stats"/>
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&include_all_commits=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sancar22-debug&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=888888&sideNums=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Sancar22-debug&hide_border=true&ring=0891b2&fire=0891b2" />
-  <img src="https://streak-stats.demolab.com?user=Sancar22-debug&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=888888&sideNums=c9d1d9" width="400" alt="GitHub Streak"/>
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com?user=Sancar22-debug&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=888888&sideNums=c9d1d9)
 
 </div>
 
