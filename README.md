@@ -8,16 +8,16 @@
 **Full Stack Developer | AI Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=flat-square)](https://sanzhar-ilichbekov-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanzhar-ilichbekov-64340025b)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sancarilichbekov@gmail.com)
 
 </div>
 
 ---
 
-I build intelligent applications that bridge artificial intelligence with real-world solutions. My expertise covers computer vision, web development, and interactive experiences.
+I try to build intelligent applications that bridge artificial intelligence with real-world solutions. I learn new stuffs, and I like to use it on some good way.
 
-Based in Kazakhstan. Currently focused on pushing the boundaries of AI integration in everyday applications.
+Based in Kyrgyzstan. Currently student in Software Engineering studying in middle professional education.
 
 ---
 
@@ -42,8 +42,8 @@ Based in Kazakhstan. Currently focused on pushing the boundaries of AI integrati
 
 ### Areas of Focus
 
-**Artificial Intelligence**  
-Computer vision, object detection, security systems
+**Artificial Intelligence & ML**  
+Computer vision, Machine Learning, object detection, security systems
 
 **Web Development**  
 Modern frameworks, responsive design, clean architecture
