@@ -107,9 +107,17 @@ Roblox Studio, Unity, AI-game integration
 
 ### Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891b2&icon_color=0891b2&text_color=888888&hide_title=true&include_all_commits=true" width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&title_color=0891b2&icon_color=0891b2&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&include_all_commits=true" width="400" alt="GitHub Stats"/>
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sancar22-debug&hide_border=true&background=00000000&ring=0891b2&fire=0891b2&currStreakLabel=888888&sideLabels=888888&currStreakNum=888888&dates=555555&sideNums=888888" width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sancar22-debug&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=888888&sideNums=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Sancar22-debug&hide_border=true&ring=0891b2&fire=0891b2" />
+  <img src="https://streak-stats.demolab.com?user=Sancar22-debug&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=888888&sideNums=c9d1d9" width="400" alt="GitHub Streak"/>
+</picture>
 
 </div>
 
