@@ -1,61 +1,127 @@
+<div align="center">
+  
+<!-- Clean Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1&section=header" width="100%" />
+
 # Sanzhar Ilichbekov
 
-Full Stack Developer and AI Engineer based in Kyrgyzstan.
+**Full Stack Developer | AI Engineer**
 
-I build intelligent applications that solve real problems. My work spans computer vision systems, web applications, and game development.
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=flat-square)](https://sanzhar-ilichbekov-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
-**[View Portfolio](https://sanzhar-ilichbekov-portfolio.vercel.app/)**
-
----
-
-### What I Do
-
-**Artificial Intelligence**  
-Building computer vision systems for real-world applications. I work with object detection, security monitoring, and integrating AI into interactive platforms.
-
-**Web Development**  
-Creating modern, responsive web applications using React, Next.js, and TypeScript. Focus on clean architecture and user experience.
-
-**Game Development**  
-Designing and developing games on Roblox and Unity. Exploring the intersection of AI and interactive entertainment.
-
----
-
-### Technical Skills
-
-**Languages:** Python, JavaScript, TypeScript, Lua, C#
-
-**AI/ML:** PyTorch, TensorFlow, OpenCV, YOLO, Scikit-Learn
-
-**Web:** React, Tailwind CSS, Flask, Django
-
-**Tools:** Git, Vercel, Roblox Studio, Unity
-
----
-
-### Selected Projects
-
-| Project | Description |
-|---------|-------------|
-| [Roblox CV](https://github.com/Sancar22-debug/Roblox_CV-School-Project) | Computer vision integration with Roblox using real-time object detection |
-| [Bazar.AI](https://github.com/Sancar22-debug/Bazar.AI) | AI-powered sales notebook platform |
-| [Security CV](https://github.com/Sancar22-debug/Security_system_CV) | Intelligent security camera monitoring system |
-| [Violence Detection](https://github.com/Sancar22-debug/Violence_Detection_CV) | AI system for detecting violence in video streams |
-| [Exoplanet Classifier](https://github.com/Sancar22-debug/nasa-spaceapps-exoplanet) | Machine learning model for classifying exoplanets |
-| [Image Insight](https://github.com/Sancar22-debug/image_insight_analyzer) | AI-powered image analysis tool |
-
----
-
-### Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats"/>
 </div>
 
 ---
 
-### Contact
+I build intelligent applications that bridge artificial intelligence with real-world solutions. My expertise covers computer vision, web development, and interactive experiences.
 
-Open to collaboration on AI and web development projects.
+Based in Kazakhstan. Currently focused on pushing the boundaries of AI integration in everyday applications.
 
-**Portfolio:** [sanzhar-ilichbekov-portfolio.vercel.app](https://sanzhar-ilichbekov-portfolio.vercel.app/)
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Core Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### Areas of Focus
+
+**Artificial Intelligence**  
+Computer vision, object detection, security systems
+
+**Web Development**  
+Modern frameworks, responsive design, clean architecture
+
+**Game Development**  
+Roblox Studio, Unity, AI-game integration
+
+</td>
+</tr>
+</table>
+
+---
+
+### Selected Work
+
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="https://github.com/Sancar22-debug/Roblox_CV-School-Project">
+<img src="https://img.shields.io/badge/Roblox_CV-181717?style=for-the-badge&logo=github&logoColor=white" alt="Roblox CV"/>
+</a>
+<br><sub>Computer Vision in Games</sub>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/Sancar22-debug/Bazar.AI">
+<img src="https://img.shields.io/badge/Bazar.AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="Bazar.AI"/>
+</a>
+<br><sub>AI Sales Platform</sub>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/Sancar22-debug/Security_system_CV">
+<img src="https://img.shields.io/badge/Security_CV-181717?style=for-the-badge&logo=github&logoColor=white" alt="Security CV"/>
+</a>
+<br><sub>Intelligent Monitoring</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<a href="https://github.com/Sancar22-debug/Violence_Detection_CV">
+<img src="https://img.shields.io/badge/Violence_Detection-181717?style=for-the-badge&logo=github&logoColor=white" alt="Violence Detection"/>
+</a>
+<br><sub>Safety AI System</sub>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/Sancar22-debug/nasa-spaceapps-exoplanet">
+<img src="https://img.shields.io/badge/Exoplanet_ML-181717?style=for-the-badge&logo=github&logoColor=white" alt="Exoplanet"/>
+</a>
+<br><sub>NASA Space Apps</sub>
+</td>
+<td width="33%" align="center">
+<a href="https://github.com/Sancar22-debug/image_insight_analyzer">
+<img src="https://img.shields.io/badge/Image_Insight-181717?style=for-the-badge&logo=github&logoColor=white" alt="Image Insight"/>
+</a>
+<br><sub>AI Image Analysis</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sancar22-debug&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891b2&icon_color=0891b2&text_color=888888&hide_title=true&include_all_commits=true" width="400"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sancar22-debug&hide_border=true&background=00000000&ring=0891b2&fire=0891b2&currStreakLabel=888888&sideLabels=888888&currStreakNum=888888&dates=555555&sideNums=888888" width="400"/>
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to collaboration on AI and full-stack projects</sub>
+<br><br>
+<a href="https://sanzhar-ilichbekov-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/View_Full_Portfolio-0891b2?style=for-the-badge" alt="Portfolio"/>
+</a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1&section=footer" width="100%" />
