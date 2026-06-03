@@ -1,7 +1,6 @@
 <div align="center">
   
 <!-- Clean Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1&section=header" width="100%" />
 
 # Sanzhar Ilichbekov
 
