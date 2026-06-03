@@ -110,7 +110,6 @@ Roblox Studio, Unity, AI-game integration
 <sub>Open to collaboration on AI and full-stack projects</sub>
 <br><br>
 <a href="https://sanzhar-ilichbekov-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/View_Full_Portfolio-0891b2?style=for-the-badge" alt="Portfolio"/>
 </a>
 </div>
 
