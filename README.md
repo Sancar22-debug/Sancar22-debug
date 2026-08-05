@@ -18,10 +18,17 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://sanzhar-ilichbekov-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanzhar-ilichbekov-64340025b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sancar22-debug)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancarilichbekov@gmail.com)
+<a href="https://sanzhar-ilichbekov-portfolio.vercel.app/"><img src="./icons/vercel.svg" width="40" alt="Portfolio"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sanzhar-ilichbekov-64340025b"><img src="./icons/linkedin.svg" width="40" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sancar22-debug"><img src="./icons/github.svg" width="40" alt="GitHub"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sancarilichbekov@gmail.com"><img src="./icons/gmail.svg" width="40" alt="Email"></a>
+<br/>
+<sup>
+<a href="https://sanzhar-ilichbekov-portfolio.vercel.app/"><b>Portfolio</b></a> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sanzhar-ilichbekov-64340025b"><b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sancar22-debug"><b>GitHub</b></a> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sancarilichbekov@gmail.com"><b>Email</b></a>
+</sup>
 
 </div>
 
@@ -40,26 +47,38 @@ I work with full stack development, AI, computer vision, automation, and game de
 **[ Languages ]**
 
 <img src="./icons/languages.svg" alt="Languages" />
+<br/>
+<sup>Python • C# • C++ • JavaScript • TypeScript • PostgreSQL</sup>
 
 **[ Frontend ]**
 
 <img src="./icons/frontend.svg" alt="Frontend" />
+<br/>
+<sup>React • Next.js • TailwindCSS</sup>
 
 **[ Backend ]**
 
 <img src="./icons/backend.svg" alt="Backend" />
+<br/>
+<sup>Django • Flask • FastAPI • Node.js</sup>
 
 **[ Databases, Cloud & Infrastructure ]**
 
 <img src="./icons/cloud.svg" alt="Cloud" />
+<br/>
+<sup>PostgreSQL • Supabase • Firebase • Redis • Kafka • DigitalOcean • Vercel</sup>
 
 **[ AI & Computer Vision ]**
 
 <img src="./icons/ai.svg" alt="AI & CV" />
+<br/>
+<sup>PyTorch • Scikit-learn • OpenCV • TensorFlow</sup>
 
 **[ Game Development & Tools ]**
 
 <img src="./icons/tools.svg" alt="Tools" />
+<br/>
+<sup>Unity • Git • GitHub</sup>
 
 ---
 
@@ -93,8 +112,8 @@ Backend & Systems              Games & Interactive
 
 | | | |
 |:---:|:---:|:---:|
-| <a href="https://github.com/Sancar22-debug/Roblox_CV-School-Project"><img src="https://img.shields.io/badge/Roblox_CV-181717?style=for-the-badge&logo=github&logoColor=white" alt="Roblox CV"/></a><br/><b>Roblox Object Detection</b><br/><sub>Computer vision integration inside Roblox using Python and YOLO.</sub> | <a href="https://github.com/Sancar22-debug/Bazar.AI"><img src="https://img.shields.io/badge/Bazar.AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="Bazar.AI"/></a><br/><b>Bazar.AI</b><br/><sub>SaaS project for smart accounting and business support.</sub> | <a href="https://github.com/Sancar22-debug/Security_system_CV"><img src="https://img.shields.io/badge/Security_CV-181717?style=for-the-badge&logo=github&logoColor=white" alt="Security CV"/></a><br/><b>Surveillance Intrusion Detection</b><br/><sub>Zone monitoring and person tracking using YOLOv8.</sub> |
-| <a href="https://github.com/Sancar22-debug/Violence_Detection_CV"><img src="https://img.shields.io/badge/Violence_Detection-181717?style=for-the-badge&logo=github&logoColor=white" alt="Violence Detection"/></a><br/><b>Violence Detection System</b><br/><sub>AI video classification project for safety monitoring.</sub> | <a href="https://github.com/Sancar22-debug/nasa-spaceapps-exoplanet"><img src="https://img.shields.io/badge/Exoplanet_ML-181717?style=for-the-badge&logo=github&logoColor=white" alt="Exoplanet ML"/></a><br/><b>NASA Space Apps Project</b><br/><sub>Data and ML project related to exoplanet research.</sub> | <a href="https://github.com/Sancar22-debug/image_insight_analyzer"><img src="https://img.shields.io/badge/Image_Insight-181717?style=for-the-badge&logo=github&logoColor=white" alt="Image Insight"/></a><br/><b>Image Insight Analyzer</b><br/><sub>AI-powered image analysis tool.</sub> |
+| <a href="https://github.com/Sancar22-debug/Roblox_CV-School-Project"><img src="./icons/github.svg" width="30" alt="Repo"/></a><br/><b>Roblox Object Detection</b><br/><sub>Computer vision integration inside Roblox using Python and YOLO.</sub> | <a href="https://github.com/Sancar22-debug/Bazar.AI"><img src="./icons/github.svg" width="30" alt="Repo"/></a><br/><b>Bazar.AI</b><br/><sub>SaaS project for smart accounting and business support.</sub> | <a href="https://github.com/Sancar22-debug/Security_system_CV"><img src="./icons/github.svg" width="30" alt="Repo"/></a><br/><b>Surveillance Intrusion Detection</b><br/><sub>Zone monitoring and person tracking using YOLOv8.</sub> |
+| <a href="https://github.com/Sancar22-debug/Violence_Detection_CV"><img src="./icons/github.svg" width="30" alt="Repo"/></a><br/><b>Violence Detection System</b><br/><sub>AI video classification project for safety monitoring.</sub> | <a href="https://github.com/Sancar22-debug/nasa-spaceapps-exoplanet"><img src="./icons/github.svg" width="30" alt="Repo"/></a><br/><b>NASA Space Apps Project</b><br/><sub>Data and ML project related to exoplanet research.</sub> | <a href="https://github.com/Sancar22-debug/image_insight_analyzer"><img src="./icons/github.svg" width="30" alt="Repo"/></a><br/><b>Image Insight Analyzer</b><br/><sub>AI-powered image analysis tool.</sub> |
 
 </div>
 
@@ -106,8 +125,8 @@ Backend & Systems              Games & Interactive
 
 | | |
 |:---:|:---:|
-| <a href="https://uniqumsport.kg/"><img src="https://img.shields.io/badge/Uniqum%20Sport-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Uniqum Sport"/></a><br/><b>Uniqum Sport</b><br/><sub>Business landing page with amoCRM integration.</sub> | <a href="https://www.delegation.kg/"><img src="https://img.shields.io/badge/Delegation.kg-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Delegation KG"/></a><br/><b>Kyrgyzstan Government Delegation</b><br/><sub>Official static website with a clean professional design.</sub> |
-| <a href="https://dominant.kg/"><img src="https://img.shields.io/badge/Dominant+-d97706?style=for-the-badge&logo=vercel&logoColor=white" alt="Dominant+"/></a><br/><b>Dominant+</b><br/><sub>Official website for a leading construction company.</sub> | <a href="https://artsky.kg/"><img src="https://img.shields.io/badge/Artsky-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" alt="Artsky"/></a><br/><b>Artsky</b><br/><sub>Digital presence for an architecture and design firm.</sub> |
+| <a href="https://uniqumsport.kg/"><img src="./icons/vercel.svg" width="30" alt="Link"/></a><br/><b>Uniqum Sport</b><br/><sub>Business landing page with amoCRM integration.</sub> | <a href="https://www.delegation.kg/"><img src="./icons/vercel.svg" width="30" alt="Link"/></a><br/><b>Kyrgyzstan Government Delegation</b><br/><sub>Official static website with a clean professional design.</sub> |
+| <a href="https://dominant.kg/"><img src="./icons/vercel.svg" width="30" alt="Link"/></a><br/><b>Dominant+</b><br/><sub>Official website for a leading construction company.</sub> | <a href="https://artsky.kg/"><img src="./icons/vercel.svg" width="30" alt="Link"/></a><br/><b>Artsky</b><br/><sub>Digital presence for an architecture and design firm.</sub> |
 
 </div>
 
@@ -131,10 +150,17 @@ I am open to collaboration, internships, freelance projects, and AI/full-stack d
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](https://sanzhar-ilichbekov-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanzhar-ilichbekov-64340025b)
-[![GitHub](https://img.shields.io/badge/View%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sancar22-debug)
-[![Email](https://img.shields.io/badge/Send%20Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sancarilichbekov@gmail.com)
+<a href="https://sanzhar-ilichbekov-portfolio.vercel.app/"><img src="./icons/vercel.svg" width="40" alt="Portfolio"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sanzhar-ilichbekov-64340025b"><img src="./icons/linkedin.svg" width="40" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sancar22-debug"><img src="./icons/github.svg" width="40" alt="GitHub"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sancarilichbekov@gmail.com"><img src="./icons/gmail.svg" width="40" alt="Email"></a>
+<br/>
+<sup>
+<a href="https://sanzhar-ilichbekov-portfolio.vercel.app/"><b>Portfolio</b></a> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sanzhar-ilichbekov-64340025b"><b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sancar22-debug"><b>GitHub</b></a> &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:sancarilichbekov@gmail.com"><b>Email</b></a>
+</sup>
 
 </div>
 
