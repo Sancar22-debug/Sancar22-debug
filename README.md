@@ -14,7 +14,7 @@
  |___|_|_|\___|_| |_|_.__/ \___|_|\_\___/ \_/  
 ```
 
-<img src="./pacman.svg" width="600" alt="Pacman Animation" />
+<video src="./ascii-magic.mp4" controls="controls" width="600" muted="muted" loop="loop" autoplay="autoplay"></video>
 
 <br/>
 
