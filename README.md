@@ -14,7 +14,7 @@
  |___|_|_|\___|_| |_|_.__/ \___|_|\_\___/ \_/  
 ```
 
-<video src="./ascii-magic.mp4" controls="controls" width="600" muted="muted" loop="loop" autoplay="autoplay"></video>
+https://github.com/Sancar22-debug/Sancar22-debug/raw/main/ascii-magic.mp4
 
 <br/>
 
