@@ -14,10 +14,8 @@
  |___|_|_|\___|_| |_|_.__/ \___|_|\_\___/ \_/  
 ```
 
-https://github.com/Sancar22-debug/Sancar22-debug/raw/main/ascii-magic.mp4
-<br/>
 <div align="center">
-<a href="https://www.youtube.com/watch?v=6Zqy5U29djU"><b>▶️ Watch on YouTube</b></a>
+<a href="https://www.youtube.com/watch?v=6Zqy5U29djU"><img src="./ascii-magic.gif" width="600" alt="ASCII Magic Animation"/></a>
 </div>
 
 <br/>
