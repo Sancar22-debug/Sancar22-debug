@@ -15,6 +15,10 @@
 ```
 
 https://github.com/Sancar22-debug/Sancar22-debug/raw/main/ascii-magic.mp4
+<br/>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=6Zqy5U29djU"><b>▶️ Watch on YouTube</b></a>
+</div>
 
 <br/>
 
